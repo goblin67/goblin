@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amay-Pandey
 - 👀 I’m interested in web and application development
 - 🌱 I’m currently learning computer science at Kingston University
-- 💞️ I’m looking to collaborate on ReactJS, Tailwind CSS, JAVA oop, C++(For Arduino) Projects
+- 💞️ I’m looking to collaborate on ReactJS, ExpressJS, Python, C++(For Arduino) Projects
 - 📫 How to reach me email: amaypandeyrenaissance@gmail.com
 
 <!---
