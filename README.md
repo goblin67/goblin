@@ -1,4 +1,4 @@
-Hi, I’m @Amay
+Hi, I’m a level 6 goblin
 
  I’m interested in: Web & Application Development, Artificial Intelligence, Machine Learning, and Intelligent Systems
 
